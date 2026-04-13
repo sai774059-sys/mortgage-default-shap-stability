@@ -1,0 +1,4 @@
+Model,AUC Pre-COVID,AUC Post-COVID,AUC Drop,SHAP Stability
+Logistic Regression,0.7664,0.7086,0.0577,0.9195
+Random Forest,0.8414,0.7486,0.0928,1.0
+XGBoost,0.8745,0.7447,0.1298,0.9441

@@ -1,0 +1,13 @@
+Model,Metric,Value
+SGD Logistic Regression,AUC-ROC (test),0.7189
+SGD Logistic Regression,Avg Precision (test),0.2033
+Random Forest,AUC-ROC (test),0.7533
+Random Forest,Avg Precision (test),0.2304
+XGBoost (primary),AUC-ROC (test),0.7504
+XGBoost (primary),Avg Precision (test),0.2615
+XGBoost,SHAP Temporal Drift (rho),0.9447
+XGBoost,Bootstrap Stability (W),0.9671
+XGBoost,Perturbation 5% (rho),0.9526
+XGBoost,Perturbation 10% (rho),0.9485
+XGBoost,Perturbation 15% (rho),0.9408
+XGBoost,SMOTE vs CW SHAP (rho),0.7742
